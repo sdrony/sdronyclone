@@ -75,13 +75,13 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
-print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : AZIM MAHMUD\x1b[1;96m  
-\033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : AZIM MAHMUD\x1b[1;96m  
-\033[1;93m [¤] \x1b[0;31mTOOLS BY AZIM\x1b[1;96m  [¤] \x1b[0;31mINSTAGRAM : AZIM MAHMUD\x1b[0;31m"""
+print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : SDRONY\x1b[1;96m  
+\033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : ARFAN HASIN\x1b[1;96m  
+\033[1;93m [¤] \x1b[0;31mTOOLS BY SDRONY\x1b[1;96m  [¤] \x1b[0;31mINSTAGRAM : ARFAN HASIN\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
-CorrectUsername = "Azim"
-CorrectPassword = "Azim!"
+CorrectUsername = "sdrony"
+CorrectPassword = "sdrony!"
 
 loop = 'true'
 while (loop == 'true'):
@@ -93,10 +93,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "yang bener dong"
-            os.system('xdg-open https://www.facebook.com/CEO.AZIM.VAUx')
+            os.system('xdg-open https://www.facebook.com/Danger.Decoder')
     else:
         print "salah sayang!"
-        os.system('xdg-open https://www.facebook.com/CEO.AZIM.VAUx')
+        os.system('xdg-open https://www.facebook.com/Danger.Decoder')
 
 def login():
 	os.system('clear')
@@ -107,7 +107,7 @@ def login():
 		os.system('clear')
 		print logo
 		print 42*"\033[1;96m="
-		print('\033[1;96m[☆] \x1b[1;91mAPNA FACEBOOK ACCOUNT LOGIN KREIN \x1b[1;96m[☆]' )
+		print('\033[1;96m[☆] \x1b[1;91mAPNAR FACEBOOK ACCOUNT LOGIN KORUN \x1b[1;96m[☆]' )
 		id = raw_input('\033[1;96m[+] \x1b[0;34mID/Email \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('\033[1;96m[+] \x1b[0;34mPassword \x1b[1;91m: \x1b[1;92m')
 		tik()
@@ -297,7 +297,7 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;31;48m●🛡════════════════════════◄►════════════════════════🛡●"
 
-	jalan('                    \033[1;91mAzim start cloning Wait...')
+	jalan('                    \033[1;91msdrony start cloning Wait...')
 	print  "  \033[1;36;48m ●🛡════════════════════════◄►════════════════════════🛡●" 
 
 	def main(arg):
